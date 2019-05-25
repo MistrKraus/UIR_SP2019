@@ -1,0 +1,303 @@
+detect alg - real - sentence
+PERSONAL_NAME - TIME_EXPRESSIONS - m pražský obchodník pan bláha mladší
+INSTITUTION - GEOGRAPHICAL_NAME - očekáváno že se kníže sehvarzenberg odebeře do pešti kde právě jeho veličenstvi sídlí ; a však když se tak nestalo a kardinál nazpět se vrátil opustil strach ústaváky a těší se z toho jakoby hodnostářům jmenovaným nebyla bývala povolena audience u císaře — nejistota budeli císař u volbách velkostatkářských zastoupen plnomocníkem čili nic trvá doposud a právě proto jest nemálo hlasů velkostatkářských řídících se dle toho o nichž se neví které straně připadnou a neb budouli vůbec odevzdány — obavy jakoby v praze se očekávalo nějaké v zbouření v příčině voleb jsou zúplna liché ; žádnému zajisté nenapadne ani ve snu aby v době této kritické nejmenší příčinu k tomu zavdal by mocí branou se zakročilo proto jsou také zcela zbytečná opatření jež vláda učinila soustředujíc v praze a ve vůkolí značnější moc vojenskon
+INSTITUTION - GEOGRAPHICAL_NAME - druhdy hojné prameny a s nimi i klokotavé potůčky vysýchají a zanikají ; rostlinstvo suchem panujícím chřádné 4 odumírá ; hospodářský dobytek menalezaje výdatné a hojné píce ; podlehá šmahem zpukřelosti kostí a jiným strašným neduhům ; švihná zvěř a zpěvné ptactvo pro nedostatek potravy veselých a vhodných příbytků kde by se uhnízdilo vytrácí se znenáhla v cizí kraje ; druhdy kvetoucí a bujně porostlé nivy pustnou a stojí zde u prostřed léta holé a prázdné téměř jak pouště arabské
+INSTITUTION - INSTITUTION - purkmistr oznamuje zvláštní vyhláškou že chce ; přísně přihlížeti k tomu aby řád o trzích u nás na papíře pěkně vytištěný opravdu skutkem se stal — přejeme sl úřadu purkmistrovskému k této práci štěstí a nadějeme se že každý řádný občan se k tomu přičiní aby se řád trbový zachoval a že hlavně každý se toho vystříhá aby na trh přivážené předměty již za městem kupoval jez dnáním takovým musí každý trh se pokaziti a němůže nikdy 0 ně jakém pořádku u nás řeči býti dokud jednotlivci hovíce jen vlastnímu prospěchu užitku všeobecnosti koncesí neudělají a co předpisováno nevykonají
+GEOGRAPHICAL_NAME - NOT_ENTITY - naleznuv tám harmonium přednášel na něm tak krásně a cituplně písně národní a melodie z oper že jsme uchvácení líbeznými zvuky se přes půlnoc zdrželi
+GEOGRAPHICAL_NAME - GEOGRAPHICAL_NAME - ve středu bude odbývána schůze obecního zastupitelstva včera přibila komise odvodní do nové kdýni a započala dnešním dnem odvod pro okres tamnější načež přibude do domažlic 16 t m
+GEOGRAPHICAL_NAME - TIME_EXPRESSIONS - k odvodu přijdou třídy z roku 1852 1851 a 1850 titulek směs titulek jistý horlivý katolik a přičinlivý šňupák svěřil se příteli svému též horlivému krmiteli nenasytného nosu svého že tyto velikonoce učinil pánu bohu slib že od počátku velkého pátku až do ukončení dojemné večerní slavnosti vzkříšení páně si nešňupne
+GEOGRAPHICAL_NAME - TIME_EXPRESSIONS - a v skutku již vítězí katolík nad šňupákem neb se chýlí sobota ku konci ; již sedí přítel na obyčejném místě svém u vchodu do sakristie pod samým zvoncem a posud jen na prázdno zahrává ruka jeho ukonějšivě s roztouženým nosem
+GEOGRAPHICAL_NAME - NOT_ENTITY - již se rozžehají světla na oltářích a vzkříšení má započíti po jehož ukončení má vyjíti katolik co výtěz nad tělem vlastním a odměniti nos svůj kapitálním šňupcem tu trhne ministrant zvoncem nad hlavou jeho a jakoby nadobyčejná moc vládla třesoucí rukou hrábne tato proti úmyslu dychtivě do tabatěrky a s křečovitě k nebi skrouceným zrakem souká ohromný šňupee do svúdného nosu nato zas druhý a třetí až konečně jest nucen šátkem ukončiti tento manevr
+GEOGRAPHICAL_NAME - NOT_ENTITY - majíce v paměti péči slavného zastupitelstva obecního o blaho a dobro obce jako i o pořádek ve městě dovolujeme si poukázati na zlořád kteréhož se dopouštějí mnozí hospodářové tím že všechny vozy a hospodářské nářadí své na ulici jako při nějaké výstavě státi nechávají
+GEOGRAPHICAL_NAME - NOT_ENTITY - protož prosíme sl zastupitelstvo města aby obecenstvu alespoň užívání ulic k volné chůzi a jezdění zachovalo a zlořád zde pohříchu skoro zakořeněný nějakým vážným činem přerušiti si neohtěžovalo
+GEOGRAPHICAL_NAME - INSTITUTION - vojtěchu kramerovi řediteli na hlavní škole v domažlicích a panu josefu kreslovi purkmistrovi v domažlicích za hojnou sbírku mineralogickou ve jmenu ústavu veřejné díky
+GEOGRAPHICAL_NAME - NOT_ENTITY - jsme opravdu rádi že můžeme odpověděti na všechny řeči a otázky najednou ; neboť dost často musili jsme slýchati narážky kam se poděly ty peníze anižbychom byli měli příležitosti příhodné veřejně se proti všem pomluvám ohraditi
+GEOGRAPHICAL_NAME - TIME_EXPRESSIONS - odpovídáme tedy neznámému panu tázateli zvlášť a obecenstvu vůbec že všechny příspěvky co jsme uložili v zdejší záložně činily dohromady koncem roku 1871 i s úroky 367 zl 83 kr a že knižka vkladní v rukou zdejšího p děkana se nalezá
+GEOGRAPHICAL_NAME - TIME_EXPRESSIONS - hráli jsme lonského roku dvakráte a čistými výnosy přispěno vždy nešťastným pohořelým což nám nikdo za chybu počítati nemůže a nesmí ; neboť pomoci neštastným jest povinností každého a mimo to byli jsme od p měšťanosty k tomu vyzváni
+GEOGRAPHICAL_NAME - ARTIFACT_NAMES - jak dlouho bychom to museli hrát abychom dostali dohromady asi 1300 neb 1500 — — známa jest ta veliká obětavost a přízeň kterou nás obecenstvo zdejší obsypává tak že jsme kdysi při jednom představení sebrali ohromnou částku 14 zl a nemohli jsme ani výlohy zapravit a bylo to přece ve prospěch pomníku toho nejvěšího dobrodince našeho chudého občanstva
+GEOGRAPHICAL_NAME - NOT_ENTITY - vyloživše takto poměry pomníku který se má stavět kojíme se nadějí že obecenstvo naše znova se ujme této věci a že nám budoucně k šlechetnému tomuto účelu ruku podá a dle možnosti nás podporovat bude
+GEOGRAPHICAL_NAME - ARTIFACT_NAMES - každý jednotlivý pytel počítá se po 1 zl r m a v téže ceně zpět se přijme jestli v 4 nedělích bezvadně a franko se navrátí reklama reklama změna bytu
+GEOGRAPHICAL_NAME - NOT_ENTITY - oznamuji velectěnému obecenstvu zvláště pak příznivcům svým že jsem se z dosavádního bytu svého u pana pavlíka v císařském mlýně přestěhoval blíže do města do vlastního domu svého bývalého kunešovic na hořejším předměstí číslo 28
+GEOGRAPHICAL_NAME - NOT_ENTITY - pohodlné zařízení toho domu poskytuje všechny výhody pro závod můj a protož jest mému přičinění možno velectěnému obecenstvu poskytnouti též výhod nejvěčších totiž nejpěknějších barev jak na nové tak i na staré látky při nejpěknější úpravě a nejlacinějších cenách
+GEOGRAPHICAL_NAME - NOT_ENTITY - prunara ma náměstí a stojí dopisy inseráty a předplatné peníze buďtež zasílány redakcí franko
+GEOGRAPHICAL_NAME - INSTITUTION - měšťanstvo pravovárečné — stavba tak zvaného panského domu každému kdož do města našeho ponejprv zavítá padne do oka stará slepými okny opatřená budova jež svými kamennými oblými sloupy od jiných domů se líší a dle celého zevnějšku mna původ dávný upomíná
+GEOGRAPHICAL_NAME - NOT_ENTITY - obec má dle zákona stavebního přihlížeti k tomu by se budovy ve městě nejen před úplným sesutím udržely ale co možná opravovaly a takto k okrase města sloužily
+GEOGRAPHICAL_NAME - INSTITUTION - neděje se tak na škodu spolku várečného — upříti se nedá že stavení samo ačkoliv nyní v prabídném stavu se nachází přece nějaký kapitál representuje nebot jeho veliké prostranství nachází se na místě ku každé potřebě velmi výhodném
+GEOGRAPHICAL_NAME - NOT_ENTITY - i byla ve sckůzi této zvolena komise jež plány a rozpočet stavby onoho domu prozkoumati a výsledek zkoušek svých valné hromadě předložiti měla
+GEOGRAPHICAL_NAME - NOT_ENTITY - dosud ale o komisí této nic do veřejnosti nepřišlo a tudiž se za to vzíti může že záležitost ta odbytou schůzí měšťanstva též se ukončila zánechajíc jem vůli dobrou jež sama na sobě ovšem jest chvalitebnou ale bez dalších činů dům nepostaví
+GEOGRAPHICAL_NAME - NOT_ENTITY - proslýchá se a jé snad i dokonce jisto že bude zde zřízena c k telegrafní stanice jež by takový byt potřebovati a též slušně zaplatiti mohla
+GEOGRAPHICAL_NAME - NOT_ENTITY - a kdyby i tak se nestalo poskytuje zmáhající se obchodní i průmyslový rozvoj městu záruky dosti bý takto postavený dům se vyplácel
+GEOGRAPHICAL_NAME - NOT_ENTITY - postavením panského domu zřízena by bylá kryté a měšťanstvo várečné vykonalo by jen skutek občanské cnosti a lidumilnosti kdyžby i takovým spůsobem o bezpečnost města se staralo
+GEOGRAPHICAL_NAME - NOT_ENTITY - zdá se že na plané proti všem opravám brojící hlasy zvolená komise větší váhy klade než na jednohlasné usnešení valné hromady jinak nemožno nám si vysvětliti zdržování věci zajisté tak nutné a užitečné
+GEOGRAPHICAL_NAME - NOT_ENTITY - pročež chutě do práce již většina obyvatelstva za dobrou byla uznala ; pryč s bázní jež nikdy podniku neprospěla až spolek přemůže tyto první překážky přesvědčí se brzy že myšlenka postavení domu byla dobrá a provedení její pro město vůbec a pro várečníky zvlášť prospěšné bude titulek politický přehled
+GEOGRAPHICAL_NAME - INSTITUTION - cesta tato podniknuta bezprostředně před volbami a aniž by účel její jen dost málo byl znám vykládána v ten rozum jakoby kardinál jeho veličenstvu císaři osobně chtěl vylíčiti stav věci v čechách — možné následky cesty té zdály se odpůrcům našim tím závažnější an toutéž dobou do vídně zavítal hrabě hohenwart bývalý ministr pak biskub ruoigier z lince
+GEOGRAPHICAL_NAME - GEOGRAPHICAL_NAME - velký postrach spůsobila mezi ačkoliv pro okres ten sbor důvěrníkův českých žádného kandidáta z domažlic co ; kandidát a poněvadž se vědělo že jest federalista a co takový pro narovnání by se zasazoval dostaly se mu nejen veškeré hlasy české v počtu 22 nýbrž i 5 hlasů německých
+GEOGRAPHICAL_NAME - INSTITUTION - krištof bauriedl purkmistr hostounský zvolen byl za poslance 65 hlasy a dali takto voličové zřetelně na jevo že odrostli poručníkování němefkého kasina a že st 0d něho nikterak nařizovati nedají titulek bitva a vítěžství u domažlic roku 1040 dne 22 až 23 srpna a kaple sv
+GEOGRAPHICAL_NAME - GEOGRAPHICAL_NAME - hájek děkan titulek pokračování že jsem vítěznou bitvu tuto nazval u domažlic má v tom svou příčinu že přípravy a chystání břetislava i k boji proti císaři jindřichovi tit dělo se v domažlicích do domažlic donešeny byly zvědy a zprávy o sílé a moči vojska německého chodům od domažlič rozkázáno lesy zářúbiti do domažlic utekl ss také lid vůkolní k vévodovi ja domažlice jakožto nejznamenitější město v okolí a sídlo župní znáčnou úlohu měly v bitvě této
+GEOGRAPHICAL_NAME - GEOGRAPHICAL_NAME - nebo když vojsko od kouby přitrhlo ku hranicím českým obejitím přikré bory hochbogenu nemohlo jinudy do čech vtrhnouti nežli úžlabím 4 údolím řeky kouby od brodu neb od osí k všerubům neumark mimo polohu krajiny svědčí pro domněnku tuto i jmena česká dvou vesnic starých bavorských právě na hranicích té krajiny totiž vesnice gross und klein aigen kteréž lid český povždy nazýval a do dnes zve velká a malá
+GEOGRAPHICAL_NAME - ARTIFACT_NAMES - k tomu malezá se zde též jako starobylý svědek toho vítězství památná kaple svatého václava u brůdku fůrtl neprávě viertel o kteréž platí slova z kroniky dalimilovy že čechové vítězní o tu bojiště učistili br a kaplici postavili
+GEOGRAPHICAL_NAME - ARTIFACT_NAMES - mimo tuto kapli svatováclavskóu nenalezá se podél hranic šumavských ani stopy po néjaké jiné kapli tohoto patrona českého k jehož úctě a na pokutu zá těla svatého vojtěcha a bratří jeho z polska do prahy vzatá vystavěl vévoda břetislav t řoku 1052 též památný chrám v staré boleslavi vy ; o této památné kapli sv vádhva na bojišti postavené několik slov promlivím k milovníkům starobylých patňátek
+GEOGRAPHICAL_NAME - TIME_EXPRESSIONS - zdí a obloukovité okno za óltářem upomínají na sloh románský ovšem zcela jednoducbý klenba a oblouk dělící loď od presbyteria jest z doby pozděj ší
+GEOGRAPHICAL_NAME - NOT_ENTITY - na oltáři jest obraz sv václava se štítem v ruce jedné a korouhví rozvinutou na níž znak orlice jest v ruče druhé malba jest hrubá z dobý pozdější obnovy
+GEOGRAPHICAL_NAME - NOT_ENTITY - kazatelna dřevěná jest pravidelný šestihran s obrazy sv čtyr evangelistův na jejímž klobouku jest latinkou psáno diese kanzel hat zu ehr des beiligen wenceslaus péter sauhr biůrger wirt und gastgebér zu neugedein máchen lassen anno 16864 — loď jest pravidelný čtverhran 25 stop dlouhý a taktéž široký s hlavním vchodem od západu a menšími dveřmi ná sever
+GEOGRAPHICAL_NAME - NOT_ENTITY - kateřiny pod nímž opět starší obraz vyčnívá kruchta dřevěná v lodi nad vchodem hlavním postavená jest ozdobená malbami sv patronů českých v pěti polích a sice sv cyrilla a methoděje sv
+GEOGRAPHICAL_NAME - NOT_ENTITY - kosmy a damiána ; sv benedikta a norberta sv
+GEOGRAPHICAL_NAME - NOT_ENTITY - pod obrazy jest nápis jmen svatých ; nad obrazy v délce kruchty latinský nápis omnes sancti jet sanctae dei intercedite pro nobis apud deum všickni svatí a světice boží orodujte za nás u boha strop v lodi jest prkený a malbami ze života sv
+GEOGRAPHICAL_NAME - ARTIFACT_NAMES - václava v zdemilech uvádí se roku 1384 v seznamu chrámů a platů z nich
+GEOGRAPHICAL_NAME - TIME_EXPRESSIONS - kronikář hájek z libočan bitvu z roku 1040 přeložil v krajinu severnější k vesnici pivoňce stockáu kdež prý později z vděčnosti břetislav i založil kostel a klášter řádu sv
+GEOGRAPHICAL_NAME - ARTIFACT_NAMES - augustina jak se čtesy kronice hájkově leta 1047 rozpomenuv se břetislav na dobrodiní sobě od pána boha učiněné a na vítězství kteréž jemu dáti ráčil nad němci 4 že jest zahnal císaře z své země i rozkázal jest na tom místě kdež se ta porážka stala a kdež jsou němci pohřebováni byli na té hoře jenž slove stock jinak pivoňka kostel krásný k poctivosti pánu bohu a panně marii postaviti a jev tam osobně s svým otcem duchovním severem biskupem žádal jeho aby jej ve jmenu bl
+GEOGRAPHICAL_NAME - AMBIGUIUS - augustina a poctivou živností je opatřil a platy nádal tak aby tu onř ná budoucí věčné časy pánu bohu za duši jeho 4 předkův jeho i za všecky tu zmórdované a pohřbené sloužili a možeteny kúřmským jeho uvítání u dvoru císaře jeho oslava na nebi dlili se ustavičně toto vypravování hájkovy kroniky opakovali i mnozí pozdější dějepišci a klášter augustiánský na pivoňce slavil roku 1747 na základě této pověsti sedmistyletou památku svého založení a v klášteře domažlickém na velikém obrazu z roku 1740 počházejícím jehož kopie v sálé radnice domažlické še nalézá ; vypodobněno jest vítězství
+GEOGRAPHICAL_NAME - ARTIFACT_NAMES - břetislava i a založení kláštera pivoňky než alé celí tato pověst rozpadne se kdýž uvážíme že přechod od kouby k ronšperku s vojskem nejvíce jízdným jest nemožný ; nebof nemá ani dost málo pohodlného údolí ku přechodu šumavou
+GEOGRAPHICAL_NAME - ARTIFACT_NAMES - tak též všecky statky kterýmiž vládl jakož i kostely k nimž konvent kláštera na pivoňcé právo podací měl nalezaly se až do počátku 14 století v rukou šlečhtičů a tudíž založení kláštera pivoňky nemůže pocházeti z doby břetislava i o čemž se udá příležitost později promluviti
+GEOGRAPHICAL_NAME - AMBIGUIUS - paláckého a jmenuji bitvu břetislava i proti jindfichóvi iii bitvou neb vítězstvím u domažlic neb blíže určeno v krajině od všerub číli nového tyhu ku kdyni kdež do dnes kaple sv václava jakožto pomník toho vítězství stojí titulek část národohospodářská
+GEOGRAPHICAL_NAME - NOT_ENTITY - pěstování ovocných stromů titulek pokračování ovoce jest jedinou potravinou jež i nejchudší muž tak delikatní míti může jak nejbohatší kníže ; ono jest zárověň nejlépším a nejzdravějším kořením nevyrovnaná lahodnosť obdivuhodná krása a nejněžnější zápach šlechetného ovoce činí je spůsobilým by i dovršilo vzácné krmě a vybrané pochoutky každé sebe skvostnější tabule
+GEOGRAPHICAL_NAME - NOT_ENTITY - a tak se ovocem potkáváme v nejchudší chýši nemajetného dělníka kde zuřivý hlad bídou zubožených dítek poněkud ukonější jakož i v kuchyni všech občanů majetnějších až i na samé knížecí a královské tabuli v letech úrodných nemožno všecky jeho zásoby v čerstvém stavu na dlouho udržeti tu se pak suší a usušené na delší dobu ina více let zachovati nechá krajiny blíž železnic ležící nemohou dosti ovoce přinésti ; čím bohatší úrodou se stromy pod sladkým svým břemenem sklání tím více vystoupí i ovocnářů kteří je odkupují a vkraje na ovoce chudší rozváží čímžse stává ovoce předmětem výhodného a na mnoze velmi čilého obchodu
+GEOGRAPHICAL_NAME - NOT_ENTITY - v krajinách na ovoce přebohatých lisujíz něho mest občerstvující a kvašením tohoto obdrží 18720120 konec stránky 18720125 začátek stránky cidr aneb vyrábí z něho kvašením a napotomnou destilací třešňovky višňovky slivovice a jiné zlíhovatělé nápoje jež co výborné léky účinkují
+GEOGRAPHICAL_NAME - INSTITUTION - v úrodnosti již pro pokročilé stáří ochablí stromové dávají užitkové dříví truhlářům soustružníkům strojířům na zhotovení úhledného nábytku užitečných a trvanlivých rozmanitých nástrojů a strojů ; jinak ostatní odpadky poskytují výdatné palivo
+GEOGRAPHICAL_NAME - NOT_ENTITY - tím vším přispívá jen k zlepšení podnebí a činí zároveň celou krajinu příjemnejší jakož i úrodnejší a zdravejší
+GEOGRAPHICAL_NAME - NOT_ENTITY - čím však kde méně stromů tím méně i výparů jelikož vláha spodní nejsouc ničím zhloubí čerpána skrze speklý povrch zemský za letní doby prodrati se nemůže alespoň nikdy tak lehce a snadně jak se to děje pomocí v útroby zemské vniklým kořáním stromoví našeho
+GEOGRAPHICAL_NAME - NOT_ENTITY - konečně i člověk sám zápasiv po léta strašnou neúrodou všelikým nedostatkem svizely nejrozmanitejšími a bídou krutou opouští rodnou svou vlast své předrahé rodiště a stěhuje se uslzeným vyháslým okem v dálné zámořské kraje by i on odumřel na věky své předrahé vlasti a milenému národu k siime dilvio ukončení titulek zprávy místní a z vůkolí titulek šťastné zabití
+GEOGRAPHICAL_NAME - GEOGRAPHICAL_NAME - ve vsi pelemichách pelechen porval se tyto dni muž se ženou a tchýní svojí tak že rozkaceni bojem udeřil každou znich čepelem sekery tak rázně do hlavy že ktesnouce k zemi zdály se býti mrtvé
+GEOGRAPHICAL_NAME - NOT_ENTITY - když po dlouhou dobu k sobě nepřicházely odebral se nešťastník ten i s osudnou sekerou k představenému obce kdež se co vrah ženy a thýni svéudal
+GEOGRAPHICAL_NAME - GEOGRAPHICAL_NAME - tak byla mezi touto a předešlou zdejší jedna schůze ve švandorfu v bavořích příští se má odbývati v řezně v bayořích i manželům ondřeji a n
+GEOGRAPHICAL_NAME - GEOGRAPHICAL_NAME - zieglerovým majitelům ostračína a ví céro dolů a skelných hutí případá 22 t m padesátiletá památka sňatku jejich
+GEOGRAPHICAL_NAME - TIME_EXPRESSIONS - cáveant consules etc zí tento týdem došla zdejší purkmistrovství úřední zvěst že 1 červnem 1872 počne zde úřadovati státní telegrafní stanice i požádán byl pan purkmistr aby potřebný byt pro úřad ten vyhlídnul a o potřebné nářadí pro kanceláře na účet eráru se postaral
+GEOGRAPHICAL_NAME - GEOGRAPHICAL_NAME - steidl odejel dnes do prahy by při volbě v kurii velkostatkářů na příští pondělí určené za statek lasko nedávno koupený své volební právo vykonal zlé pochvalu zasluhují mladíci vůkolních obcí našich za pořádné chování kterým se při letošním odvodu k vojsku vyznamenali vedeni jsouce svými přednoštama kráčeli dosti vesele a ve vzorném pořádku za hudbami svými městem k místu odvodnímu — chování to zasluhuje zajisté tím více podotknutí an o chováví několika mladíků zdejších při té přiležitosti tak říci nelze duu oprava
+GEOGRAPHICAL_NAME - NOT_ENTITY - oheň v tmavé noci vzniklý ozářil okolí tamnější tak že v nejbližších a až na hodinu vzdálených místech mysleli ze spaní vyděšení obyvatelé že oheň jest v místech samých 18720125 konec stránky18720130 začátek stránky ze skupení průmyslu p
+GEOGRAPHICAL_NAME - GEOGRAPHICAL_NAME - dále uzavřeno vyslati do prahy jednoho úředníka obecního aby tám na místech příslušných učinil výtahy o majetku obce zvoleni důvěrníci k volbě poslance pánove josef ludvík a václav ebenstreit uzavřeno pokračovati dále v kladení cesty k týnským hájům přidáno mzdy cihlářovy městkému 50 kr z jednoho tisíce cihel a tašek proti čemuž cena tohoto stavesa 0 stejnou částku svýšena ustnoven provisorně za cestáře na kubici bartoloměj keppl přijmuta resignace kostelníka p
+TIME_EXPRESSIONS - GEOGRAPHICAL_NAME - parní mlýn jakuba ludvíka v havlovicích u domažlic odporučuje své výrobky nejlepší jakosti a znamená následovní ceny výrohky pšeničné 0 císařský výražek — — 15 l 50 kr 1 krupařský výražek — — 14 50 2 rbekařský výražek nejpěknější 13 50 3 vyražená mouka io 4 krupičná mouka pěkná — 9 — 5 režnámouka — — — 4 — 6
+TIME_EXPRESSIONS - NOT_ENTITY - prach — — 31 4 r s t krupice — — 565 50 10
+TIME_EXPRESSIONS - NOT_ENTITY - pšeničné otruby — — — 8 4— výrobky žitné
+TIME_EXPRESSIONS - ARTIFACT_NAMES - dalamán — — — 102l 50 kr
+TIME_EXPRESSIONS - ARTIFACT_NAMES - bilý výražek — — 9 90 chlebvá mouka — — 1 — žitné otruby — — 3 85 zároveň odporučuje svůj dobrý samožitný chleb bochníků 18 kr 36 kr
+TIME_EXPRESSIONS - ARTIFACT_NAMES - upsáno posud 108 akeif po 200 zl na kteréž do 8 dnů 10 složeno býti má — celý podnik sestává z 250 akcií s kapitálem 50000 zl a počne stavba sladovny hned jak mile polovic akcií upsáno bude 1 7 zároveň volen výbor zřízující do kteréhož voleni pánove angelis engel kreisa lanz lassas lokwaj nachtmann otto pavlik rudovský steidl webr kteří za předsedu si vyvolili pana kreisu — na teinském předměstí u nás stojí již sladovna mohli bychom snadno míti něco napřed před teinskými sousedy svými kdyby obec k této moderní sladovně též časům přiměřený pivovár postavila
+ARTIFACT_NAMES - ARTIFACT_NAMES - s v p místo 4 zl 40 kr zasláno 4 zl 2 kr — 20 kr přilež titulek obilní tržní ceny v domažlicích dne ii dubna 1872 titulek jedna míra pšenice 6 zl 52 kr 621 35 kr 6 zl 18 kr s tah brnenské loterie 64 35 73 11 80
+ARTIFACT_NAMES - TIME_EXPRESSIONS - aby zadáno býti mohlo potřebn materiálu pro zdejší akciový cukrovar vypisuje se 1m podaní 01 dne 20 dubna 1872 s doložením že kdož v dodávání se hlásiti mini do dne určeného své nabídnuti s dodáním vzorku pak 10 z celé ceny dodavky té co vadium předsednictvu cukrovaru franco zaslati má nášeti bude 8000 až 9000 tabul
+ARTIFACT_NAMES - TIME_EXPRESSIONS - záložna roudnická vykazuje úhrnkový příjem za správní rok 1871 s účetním zbytkem z roku 1870 1 212 026 zl 52 kr — vybrané úroky a provise obnášeli 25 423 zl 78 kr
+ARTIFACT_NAMES - INSTITUTION - nedopatřením dopisovatele vloudila se do izprávý 0 sezení ; okresního zástupitelstva domažlického v čísle 3 p od č chybá ta že v sedmé řádce z hora sloupce druhého na místě 558 21 69 kr r č státi má 5581 zl 69 kr r č
+AMBIGUIUS - NOT_ENTITY - vzdáváme jemu za tak krásnou zábavu vřelé díky
+ERROR - NOT_ENTITY - mnohý by si snad přál kdyby tak bylo
+NOT_ENTITY - NOT_ENTITY - tyto dni roznesla se zpráva že v nové sladovně klenutí se zbořilo
+NOT_ENTITY - NOT_ENTITY - zatím můžeme každého ubezpečiti že zboření to záleželo jen v tom že v peci 2 cihly ohnivzdorné vypadli což se i hned novými dosadilo
+NOT_ENTITY - NOT_ENTITY - sladovna stojí pevně mnohem pevněji než přesvědčení leckteréhos oblažitelé obce — a bohdá přečká všechny ty starosti kteréž tak mnohý ovšem marně 0 ní má
+NOT_ENTITY - NOT_ENTITY - budou tedy 17ho vyřizovány reklamace 18ho do 20ho pak odvod
+NOT_ENTITY - GEOGRAPHICAL_NAME - okres novokdýnský odvede 95 domažlický 100 mužů k vojsku řadovému mimo to každý tento okres po 10 mužů k náhradní záloze
+NOT_ENTITY - NOT_ENTITY - tento znaje slabou stranu šňupáka dával na přítele svého pozor
+NOT_ENTITY - NOT_ENTITY - i hned zavzní mu nad hlavou zvonění druhé
+NOT_ENTITY - NOT_ENTITY - spamatovav se vidí okem nyní vyjasněným nedaleko sebe přítele státi jenž srozumitelným pohledem jej na jeho slib pamatuje titulek veřejná hovorna titulek za tento sloupec není redakce zodpovědná skromná žádost k slavnému zastupitelstvu města
+NOT_ENTITY - NOT_ENTITY - máli zásada že se majetek dlouholetým nezávadným užíváním vydržeti platnosti moblo by se státi že i ulice takto od soukromníků užívané ; by v jich majetek přešly a žé by pak obec jich draze vykupovati musela což ovšem u nás by nic nového nebylo
+NOT_ENTITY - NOT_ENTITY - někteří
+NOT_ENTITY - NOT_ENTITY - k dotazu v čísle i
+NOT_ENTITY - GEOGRAPHICAL_NAME - v hlavní knize záložny domažlické čís
+NOT_ENTITY - ARTIFACT_NAMES - v na straně 2173 stojí p ctitelé příhodovi mají koncem roku 1871 pohledanosti 367 zl 89 kr
+NOT_ENTITY - NOT_ENTITY - to jest ona hotovost po níž se v čísle ii
+NOT_ENTITY - NOT_ENTITY - p od č kdosi táže
+NOT_ENTITY - NOT_ENTITY - že při takové záloze o zbudování jakéhos pomníku řeči býti nemůže nahledne každý
+NOT_ENTITY - NOT_ENTITY - ostatně jsme pevně přesvědčeni že zvěčnělému p
+NOT_ENTITY - NOT_ENTITY - p
+NOT_ENTITY - INSTITUTION - příhodovi časem svým důstojný pomník postaven bude a to tím spíše ujmouli se toho též všickni zdejší rodáci jenž za svých studií dobrodiní nadací příhodovských účastní byli
+NOT_ENTITY - INSTITUTION - šlechetným dobrodincům realného gymmasia v domažlicích panu k
+NOT_ENTITY - NOT_ENTITY - v
+NOT_ENTITY - GEOGRAPHICAL_NAME - zengrovi řádnému professoru ma král zemské politechnice v praze za vkusný a velmi výhodný sloupec thermoelektrický p
+NOT_ENTITY - NOT_ENTITY - dr
+NOT_ENTITY - GEOGRAPHICAL_NAME - tomáši michálkovi v karlových varech za krásnou úplnou sbírku kamenů karlovarských panu p
+NOT_ENTITY - GEOGRAPHICAL_NAME - karlu hájkovi děkanu a vikáři v domažlicích za mapu palestíny panu p
+NOT_ENTITY - GEOGRAPHICAL_NAME - v domažlicích dne 10 dubna 1872
+NOT_ENTITY - NOT_ENTITY - weber j ředitel
+NOT_ENTITY - AMBIGUIUS - odpověď na dotaz stranou příhodova pomníku v předešlém čísle posla od čerchova obsažený
+NOT_ENTITY - NOT_ENTITY - v předešlém čísle byli jsme vyzváni abychom vysvětlili jak se to más příspěvky které dosud na pomník p
+NOT_ENTITY - NOT_ENTITY - příhody sebrány byly
+NOT_ENTITY - ARTIFACT_NAMES - mezi těmito penězi nalezají se také příspěvky od ochotníků které činí celkem 22 zle 82 kr
+NOT_ENTITY - TIME_EXPRESSIONS - zbývá nám ještě vysvětliti proč jsme nehráli vloni na pomník
+NOT_ENTITY - INSTITUTION - pak se dával ples a čistý výnos věnován zdejší knihovně kteráž zajistě neméně podpory zasluhuje
+NOT_ENTITY - ARTIFACT_NAMES - kbybychom byli tyto všechny příspěvky na pomník dali byli bychom ovšem rozmnožili fond pro zbudování pomníku o 100 zl ale tím bychom nebyli ještě pomník vystavěli ; neboť hrajeme po 7 let a nemáme posud ani plných 400 zl
+NOT_ENTITY - INSTITUTION - tento skvělý výtěžek nás přivedl na tu myšlenku že snad se obecenstvu hrajemeli ve prospěch pomníku málo zavděčujeme
+NOT_ENTITY - TIME_EXPRESSIONS - studenti é roku 1868 ku konci prázdnín odevzdal jsem s panem karlem kostlivým nyní odborným ingenieuerem při dráze pražskoduchovšké záložní knižku pod jmenem ctitelové zesnulého pat
+NOT_ENTITY - ARTIFACT_NAMES - antonína příhody znějící daleko přes 200 zl r č které čistý výnos z divadel plesů a merend v městské záložně uložené byly v ruce našeho ctěného dě kana pat
+NOT_ENTITY - NOT_ENTITY - karla hájka
+NOT_ENTITY - NOT_ENTITY - myslím že jsme lepšího místa k uschování knižky té voliti nemohli
+NOT_ENTITY - TIME_EXPRESSIONS - nemohu pochopit že pisateli řádků v hovorně v čísle minulém známo to není — zajisté že nyní teprv se o věc tu starati počíná — an jest to přec každému studujícímu z doby tamější známo
+NOT_ENTITY - TIME_EXPRESSIONS - souhlasím úplně s tím že už mnoho před lety o tom bylo mluveno kázáno a co z toho bylo — nic
+NOT_ENTITY - NOT_ENTITY - tolik k vysvětlení a uspokojení mysle
+NOT_ENTITY - NOT_ENTITY - s úctou dr
+NOT_ENTITY - NOT_ENTITY - hálík
+NOT_ENTITY - INSTITUTION - skromná otázka spolek veteránů zemřel již titulek listárna redakce titulek pan m
+NOT_ENTITY - NOT_ENTITY - v
+NOT_ENTITY - NOT_ENTITY - t v p
+NOT_ENTITY - NOT_ENTITY - zprávy vaše vděčně přijímáme
+NOT_ENTITY - NOT_ENTITY - pokračujte laskávě dále pan k
+NOT_ENTITY - TIME_EXPRESSIONS - odchod 16 dubna
+NOT_ENTITY - NOT_ENTITY - panu j
+NOT_ENTITY - NOT_ENTITY - v v ša vě doma
+NOT_ENTITY - NOT_ENTITY - co pak mne můj milej více neznáš
+NOT_ENTITY - ARTIFACT_NAMES - dostal jsi psaníčko či je nemáš hlas od dunaje 18720105 konec stránky 18720110 začátek stránky reklama sklad sicícíh síroji od j
+NOT_ENTITY - GEOGRAPHICAL_NAME - balliny a sp v hamburce které za mně od firmy té předepsané velmi levné ceny od 48 zl na horu prodávám
+NOT_ENTITY - NOT_ENTITY - cenníky na požádání obdrží každ f městi blíže pošty
+NOT_ENTITY - GEOGRAPHICAL_NAME - max duffek reklama reklama americký
+NOT_ENTITY - NOT_ENTITY - při prodeji za hotové poskytuje 6 srážky
+NOT_ENTITY - NOT_ENTITY - v mlýně tom obilí zcela za sucha se mele není tedy možno aby mouka v zdravých místnostech uschovaná stuchla
+NOT_ENTITY - NOT_ENTITY - mouka prodává se v originálních pytlech po 125 lib čisté váhy
+NOT_ENTITY - NOT_ENTITY - slušně žádaje aby mne ctěné obecenstvo i na dále svou přízní poctilo znamenám se v hluboké úctě
+NOT_ENTITY - NOT_ENTITY - lud
+NOT_ENTITY - NOT_ENTITY - bökli reklama ctěnému obecenstvu uvádím v známost že jsem převzal pro zdejší město v mém galanterním závodě na náduffek
+NOT_ENTITY - INSTITUTION - akciový cukrovar v domažlicích dne 10 dubna 1872 ebné práce sklenářské s dodáním se lhůta k podání offertů do potřeba skla obředseda spolku dr
+NOT_ENTITY - NOT_ENTITY - stejdl
+NOT_ENTITY - TIME_EXPRESSIONS - ročník pusel od čerchova týdenník pro zájmy poli teké obecné a spolkové
+NOT_ENTITY - GEOGRAPHICAL_NAME - v domažlicích dne 20 dubna 1872 číslo 4 vychází každou sobotu o 3 hodině odpoledne v knihkupectví jiř
+NOT_ENTITY - GEOGRAPHICAL_NAME - pro domažlice i poštovní zásilkou reklamace nezapečetěné se nefrankují
+NOT_ENTITY - ARTIFACT_NAMES - dopisy bez podpisu se nepřijímají čbyrtletmě 80 kr čtvrtletně 1 zl 10 kr rukopisy se nevracejí
+NOT_ENTITY - ARTIFACT_NAMES - plat inserátů obnáší za řádku třísloupcovou poprvé za každé následující uveřejnění 2 kr mimo kolek 30 kr
+NOT_ENTITY - NOT_ENTITY - bedlivější prohlídnutí oné budovy však přesvědčí každého že není stavení toto pro nějakou památku archeologickou zde chované nýbrž že jest to obyčejný velmi zanedbaný dům jehožto krytba jak před slunečním vedrem tak i před deštěm nuzné přízemí chrániti již přestála
+NOT_ENTITY - INSTITUTION - stavení toto jest majetkem měšťanstva pravovárečného jest to panský dům
+NOT_ENTITY - NOT_ENTITY - není účelem článku tohoto pojednávati o původu názvu domu jmenovaného spíše jest snahou naší poukázati k tomu jak časovým poměrům z cela odporuje takovéto zanedbání domu z náměstí až do zadní ulice se rozprostraňujícího
+NOT_ENTITY - NOT_ENTITY - jeli ale již jednotlivci zákonem uloženo své stavení tak držeti by svým zevnějškem krásochuf neuráželo a sousedstvu chatrností svou nebezpečné nebylo tím větší povinnost má spolek stavení svá v dobrém stavu držeti
+NOT_ENTITY - NOT_ENTITY - toho však při tak zvaném panském domě spolek pravovárečný nečiní ač zámožná inteligence měšťanstva spolek ten tvoří
+NOT_ENTITY - NOT_ENTITY - kapitál jenž nyní v tomto stavení leží nenese spolku pražádného užitku a jelikož stavení stále poustné neroste kapitál tento nýbrž pořád se menší
+NOT_ENTITY - INSTITUTION - darmo však pátrati po příčině proč měšťanstvo várečné na toto ubývání jmění svého každoročně se tak klidně dívati může
+NOT_ENTITY - NOT_ENTITY - bylo ovšem měšťanstvo várečné před krátkým časem svoláno by záležitost tohoto domu přetřepalo
+NOT_ENTITY - NOT_ENTITY - a přec by bylo postavení domu toho s mnohou výhodou nejen pro spolek samý ale i pro celou obec spojeno na něž v tomto článku poukázati si dovolíme
+NOT_ENTITY - NOT_ENTITY - pomíjímeli okolnost že by stavení toto městu k okrase sloužilo upozorňujeme na užitek jenž by spolku neslo
+NOT_ENTITY - NOT_ENTITY - v přízemí by pěkné krámy 1 sklady zřízeny býti mohly jež při zmahajícím se obchodu našem by značný výtěžek činžovní poskytovaly ; první patro by pěkné byty míti mohlo jež rostoucí nouzí 0 byty by velmi hledané byly
+NOT_ENTITY - NOT_ENTITY - zbylo by tedy dosti místností pro sladování v zadní části domu jež by se z výtěžku přední části opraviti mohly
+NOT_ENTITY - NOT_ENTITY - takové jsou pohnůútky jež by dosti důkladně přemítány býti měly neučiníli již spolek něco takového což pak očekávati máme od jednotlivce
+NOT_ENTITY - NOT_ENTITY - pokoutně se ovšem hlasové proti stavbě domu ozívali osvojujíce si právo veřejného mínění při valné hromadě nebylo však proti stavbě činěno námitek
+NOT_ENTITY - NOT_ENTITY - chcemeli se domoci v našem městě pokroku časovým poměrům příměřeného musíme starý cop odložiti zanecháním nerozhodnosti a bázlivosti před každou sebe menší novotou
+NOT_ENTITY - NOT_ENTITY - nerozhodností a bázlivostí maří se jenom čas jehožto cena jest nenahraditelna
+NOT_ENTITY - GEOGRAPHICAL_NAME - zprávy domácí titulek z prahy
+NOT_ENTITY - NOT_ENTITY - rozechvění myslí před volbami sněmovními dosáhlo stupně nejvyššího
+NOT_ENTITY - ARTIFACT_NAMES - vídeňské noviny uveřejnily seznam všech těch kdož v době nejnovější hlasu velkostatkářského nabyli a ze seznamu toho lze seznati že strana ústavácká asi o 8 hlasů více nabyla nežli strana česká
+NOT_ENTITY - INSTITUTION - přes to všecko ale nemají ústaváci nikterak ještě vyhráno ba naopak nenahodíli se překážky nepředvídané možno ústavověrci cesta kardinála knížete schvarcenberga do vídně
+NOT_ENTITY - GEOGRAPHICAL_NAME - z horšova týna
+NOT_ENTITY - TIME_EXPRESSIONS - volba poslance z obcí venkovských dne 18 dubna t r odbývaná nevypadla dle vůle ústaváků
+NOT_ENTITY - INSTITUTION - kasinem německým ponavržený kandidát p
+NOT_ENTITY - NOT_ENTITY - julius richter vrchní ředitel knížete trautmansdorfa nejen že slavně propadl obdržev ze 100 hlasů voličských toliko hlasů 8 nýbrž daleko byl předčen i kandidátem českým mohutná záštita proti ohni ve čtvrti města vesměs šindelem vystoupil přece k vyzvání vícero voličů českých p
+NOT_ENTITY - NOT_ENTITY - med
+NOT_ENTITY - NOT_ENTITY - d
+NOT_ENTITY - NOT_ENTITY - steidl 18720115 konec stránky 18720120 začátek stránky nám těšiti se z dobrého výsledku
+NOT_ENTITY - GEOGRAPHICAL_NAME - úkaz tento v okresu jejž druhdy na sněmu zastupoval ministr schmerling zasluhoval by poyšimuutí v kruzích rozhodných jsa důkazem že poznenáhla i něměcké obyvatelstvo přichází k přesvědčení že poměry v čechách jen obapolným dohodnutím se obou národností upraviti možno
+NOT_ENTITY - NOT_ENTITY - p
+NOT_ENTITY - ARTIFACT_NAMES - václava na bojišti postavená
+NOT_ENTITY - GEOGRAPHICAL_NAME - z dějepis města domažlic podává p
+NOT_ENTITY - NOT_ENTITY - k
+NOT_ENTITY - GEOGRAPHICAL_NAME - mimo to byla zajisté též druhá menší brána od brodu bavorského přes nynější vollimavu směřující přímo k domažlicům při tomto boji zúčastněna čehož důkazem jsou staré památky jako zbraně peníze stároněmecké z té doby kteréž se y ; té krajině často nalezají — ja že yšak ; hlavní ; proud ; vojska německého hnal se od kouby přeš nový erh jinák všeruby o tom svědčí již poloha krajiny samé
+NOT_ENTITY - NOT_ENTITY - vojna
+NOT_ENTITY - GEOGRAPHICAL_NAME - kájíle ttě stojí zá vesnicí brůidkem nédáleko od silnice k všerukům vedoucí v širém poli na svahu mírného návrší
+NOT_ENTITY - NOT_ENTITY - presbytérinm jest ta původní kaple na bojišti postavéná 20 stop dlouhá 17 stop široká
+NOT_ENTITY - NOT_ENTITY - nad sv václavem jest na oltáři ještě menší obraz německého patrona sv michala
+NOT_ENTITY - TIME_EXPRESSIONS - tato loď byla roku 1382 od obyvatelů míst všerub hájků donau a studánek kaltenbrunn vystavěna ktéréžto obce s brůdkem nyní patronové této kaple jsou
+NOT_ENTITY - NOT_ENTITY - v koutech lodě u presbyteria jsott dva malé oltáříky novější spustlé v pravo oltář korunování bp
+NOT_ENTITY - AMBIGUIUS - marie s obrazem nad nímž opět obraz sv michala
+NOT_ENTITY - NOT_ENTITY - vlevo na oltáři jest obraz světice s korunou královskou na hlavě pod tímto obrazem po stranách objevují se zbytky starého obrazu na němž viděti jest sv
+NOT_ENTITY - NOT_ENTITY - víta s kohoutem a sv vojtěcha v mitře biskupské nad oltářem pak jest obraz sv
+NOT_ENTITY - NOT_ENTITY - zikmunda a prokopa sv
+NOT_ENTITY - NOT_ENTITY - ludmily a josefa
+NOT_ENTITY - NOT_ENTITY - václava ozdobený jest tu viděti sv
+NOT_ENTITY - ARTIFACT_NAMES - václava jdoueího ;z hradu boleslavského do chrámu jeho boj s knítéto krajiny pohynula též úcta tato přenešení jeho ostatků do prahy
+NOT_ENTITY - NOT_ENTITY - malba jest obstojná ač zátekáním vody mnoho utrpěla
+NOT_ENTITY - NOT_ENTITY - kaple jest dlážděna dobrými šestihranými cihlami na nichž jest pětilistá růže výtlačená okna jsou z doby novější
+NOT_ENTITY - NOT_ENTITY - nad vchodem hlavním stojí z venčí předsíň nyní za kůlnu sloužící krov kaple jest vysoký šindelem krytý nad vyšší lodí vyčnívá šindálkem kameny obtíženým pokrytá v níž bydlí posluha kostelní
+NOT_ENTITY - INSTITUTION - všecko připomíná y této kapli na bývalou horlivou úctu svatých patronů českých všecko ale v wynější spoustě svědčí že poněmčením ač tato kaple něco jmění má r 1870 bylo 1957 zl 77 kr jest předce opuštěna a musí někdy vypomáhati záduším svým farnímu kostelu sv
+NOT_ENTITY - ARTIFACT_NAMES - michala ; od r 1628 do r 1650 vystavěnému ve všerubech
+NOT_ENTITY - TIME_EXPRESSIONS - den sv
+NOT_ENTITY - TIME_EXPRESSIONS - václava slaví se do dněs službami božími v této kapli
+NOT_ENTITY - GEOGRAPHICAL_NAME - při kapli této stávala věs zvaná zdemily která ale již roku 1586 byla pustá
+NOT_ENTITY - ARTIFACT_NAMES - kaple sv
+NOT_ENTITY - TIME_EXPRESSIONS - roku 1390 byl patronem nad kaplí v zděmilech blíž kdyně pan ojíř z ryzembérka kterýž po smrti duchovního zprávce kunše při té kapli ustanovil nového kněze z diécese pražské
+NOT_ENTITY - AMBIGUIUS - jiřího z domažlic dne 15 prosince roku pak 1392 dne 15 června k tomu svolil aby týž kněz jiří své postavení v zdemilech sobě yyměnil s knězem petrem oltářníkem w sv ; maří magdaleny ve švihově k čemuž přivolil též patron tamější pan bíeněk ze skály
+NOT_ENTITY - ARTIFACT_NAMES - nyní patří kaple sv
+NOT_ENTITY - ARTIFACT_NAMES - václava v brůdku jenž stojí na místě staré vsi zdemil jakožto filialní ku kostelu sv michala ve všerubech
+NOT_ENTITY - NOT_ENTITY - panny marie posvětil
+NOT_ENTITY - NOT_ENTITY - a tu hned kníže dal uvésti do něho bratry poustevníky řádu sv
+NOT_ENTITY - ARTIFACT_NAMES - mimó to jest i pověst o založení kláštera na pivoňce kloster zum stock neb stockau pouhou báchorkou neboť řád kněží poustevníkův sy augustina teprv v 13 století do čech byl uveden
+NOT_ENTITY - NOT_ENTITY - a protož úplně souhlasím s náhledem p
+NOT_ENTITY - ARTIFACT_NAMES - namnoze zhoustnou toliko ovocné šťávy v trvanlivé výborné odvary povidla aneb nakládají z jemně rozsekaných jablek a hrušek výtečné příjemně šťavnaté ovocné zelí jež pro mnohé země hledaným vývozným předmětem obchodu se stává
+NOT_ENTITY - NOT_ENTITY - lesy pro svůj skrovnější užitek a zdlouhavý zrůst jenž přesahuje daleko věk lidský ustupují na všech stranách orné půdě která rychlejšími požitky svými značně výnosnější se stává
+NOT_ENTITY - NOT_ENTITY - spotřeba však dříví není menší nýbrž roste se stále žkvětajícím průmyslem proto třeba máli poněkud rovnováha v tomto ohledu býti zachována by všude bez odkladu k pilnému a hojnému vysazování ovocných stromů se přihlíželo
+NOT_ENTITY - NOT_ENTITY - racionelné pěstování sadařství není nikterak na ujmu ostatním hospodářským rostlinám ale naopak prospívá jim jen
+NOT_ENTITY - NOT_ENTITY - úetné stromoví poskytuje krajině žádoucích výparů sprostedkuje takto včasné deště uhájí suchopary před vypálením žhavými paprsky slunečními zmírňuje účinek drsných aneb příliš výsušných větrů láme drtící moc bouřek vichrů a chrání tak plodiny polní i příbytky lidské před zlobou rozkacených živlů
+NOT_ENTITY - NOT_ENTITY - stromů prázdné kraje povstalé v chvatném ničení lesů ztrácí naproti tomu znenáhla svou lahodnost i úrodnost
+NOT_ENTITY - NOT_ENTITY - jak známo sprostředkují stromy svým hlubokým kořáním nejlépe oběh vláhy ze spodních vrstev zemských v obor vzdušný
+NOT_ENTITY - NOT_ENTITY - mračna však ve výsušném oboru se téměř očividně ztrácí aneb přes ně stále prchají aniž by požehnaného deště vypráhlé půdě poskytla
+NOT_ENTITY - NOT_ENTITY - pan představený nemeškaje ihned poslal pro četníky do města a než tito přišli šel se sám o stavu věci té přesvědčiti
+NOT_ENTITY - NOT_ENTITY - přijda však na místo ohavného činu toho nemálo se udivil vida obě ženy po síni choditi a sobě na bolení hlavy stěžovati
+NOT_ENTITY - NOT_ENTITY - dopálený muž rád že tentokráte ještě tak levně vyvázl odstěhoval se hned od svých dračic a aby památku na své manžeství smyl prodal svatební šat svůj
+NOT_ENTITY - GEOGRAPHICAL_NAME - v staňkovech uspořádají divadelní ochotníci tamější tyto dni věneček jehož čistý výnos věnován jest na upravení divadla
+NOT_ENTITY - TIME_EXPRESSIONS - druhá schůze sklářů odbývána zde dne 14 t m v hostinci u zlaté koruny za příčinou upravení cenníku skel
+NOT_ENTITY - NOT_ENTITY - též jednáno o prostředcích k ochraně svých závodů jakož i uzavřeno že má každý 3 měsíce jedna schůze na jiném místě se sejíti
+NOT_ENTITY - NOT_ENTITY - oba jubilanti těší se posud dobrého zdraví
+NOT_ENTITY - INSTITUTION - při volbě poslance na sněm zemský pro okres domažlickonovokdýnský ve čtvrtek odbývané obdržel dosavádní kandidát strany národní pan dr
+NOT_ENTITY - NOT_ENTITY - j
+NOT_ENTITY - NOT_ENTITY - škarda 48 hlasů
+NOT_ENTITY - NOT_ENTITY - německý kandidát p
+NOT_ENTITY - NOT_ENTITY - rank obdržel 13 hlasů
+NOT_ENTITY - NOT_ENTITY - čtyři němci hlasovali s námi
+NOT_ENTITY - INSTITUTION - tělocvičná jednota sokola domažlického zakoupila pro zábavu svých členů z dobrovolných příspěvků saloní pušku zadovku soustavy groscheovy
+NOT_ENTITY - NOT_ENTITY - jelikož jest náboj velmi laciný lzé se nadíti hojného účastenství při nastávající střelbě do terče — k zakoupení přispěli značnou částkou p
+NOT_ENTITY - NOT_ENTITY - dr
+NOT_ENTITY - NOT_ENTITY - steidl p hrabě frant
+NOT_ENTITY - NOT_ENTITY - dohalský a p
+NOT_ENTITY - NOT_ENTITY - dr
+NOT_ENTITY - GEOGRAPHICAL_NAME - klíma — na zdar bájsbolaka sladovna na akcie v horšově týně
+NOT_ENTITY - TIME_EXPRESSIONS - dne 14 t m započato s upisováním akeií pro akciovou sladovnu tamnější
+NOT_ENTITY - NOT_ENTITY - ještě jest čas aťrten drahý čas neuteče na škodu měsťanstva i obce
+NOT_ENTITY - NOT_ENTITY - město naše nabyde tím opět větší důležitosti která se také právě uznanou potřebou takové stanice na vyšších místech ocenila
+NOT_ENTITY - NOT_ENTITY - dr
+NOT_ENTITY - NOT_ENTITY - ant
+NOT_ENTITY - TIME_EXPRESSIONS - na volbě do okresního zastupitelstva novokdýnského odbývané 13 dubna 1872 zúčastnito se 78 voličů a zvoleni jsou veskrz jednohlasně ze skupení venkovských obcí p
+NOT_ENTITY - GEOGRAPHICAL_NAME - bedřich macenauer z kouta p
+NOT_ENTITY - GEOGRAPHICAL_NAME - karel behenský z kouta p
+NOT_ENTITY - NOT_ENTITY - ant
+NOT_ENTITY - GEOGRAPHICAL_NAME - vellner ze studánek p
+NOT_ENTITY - GEOGRAPHICAL_NAME - vavřinec havel ze zahořan p
+NOT_ENTITY - GEOGRAPHICAL_NAME - jan martinek z radonic p
+NOT_ENTITY - GEOGRAPHICAL_NAME - jakub sklenář z hradiště p
+NOT_ENTITY - GEOGRAPHICAL_NAME - josef kocour z srbece p
+NOT_ENTITY - GEOGRAPHICAL_NAME - jan tomášek z ouňovic p
+NOT_ENTITY - GEOGRAPHICAL_NAME - josef sladovník z ouboče p
+NOT_ENTITY - GEOGRAPHICAL_NAME - šimon černý z černíkova p
+NOT_ENTITY - GEOGRAPHICAL_NAME - josef toušek z vráži p
+NOT_ENTITY - GEOGRAPHICAL_NAME - josef mikoláš z pocinovie p
+NOT_ENTITY - GEOGRAPHICAL_NAME - karel florian farář z loučima p
+NOT_ENTITY - GEOGRAPHICAL_NAME - ondřej schodlbauer ze lhoty p
+NOT_ENTITY - GEOGRAPHICAL_NAME - růžek jiří z nové vsi ; u p
+NOT_ENTITY - NOT_ENTITY - v
+NOT_ENTITY - GEOGRAPHICAL_NAME - maidl z kolovče p
+NOT_ENTITY - NOT_ENTITY - j
+NOT_ENTITY - GEOGRAPHICAL_NAME - klauber z všerub neumark ; ze skupení velkostatků p rudolf hrábě ze stadionu p
+NOT_ENTITY - NOT_ENTITY - bedřich hrabě ze stadionu p baron ze skal p hrabě z černinů p
+NOT_ENTITY - GEOGRAPHICAL_NAME - hirsčhberg zprávec z kocomyšle ora surorovost
+NOT_ENTITY - GEOGRAPHICAL_NAME - v hradišti okresu novokdýnském přepaden byl ve svém příbytku tamnější občan a domkář v
+NOT_ENTITY - NOT_ENTITY - b od m
+NOT_ENTITY - GEOGRAPHICAL_NAME - t též občana hradištského a od něho ubit až k omráčení
+NOT_ENTITY - NOT_ENTITY - vytržen byl od další surovosti na pomoc přišedšími lidmi
+NOT_ENTITY - INSTITUTION - záležitost ta byla soudu odevzdána i pozoruje se již po délší dobu že hradby kolem sadů zdejší hedvábnickoovocnářské jednoty bývají poškozovány a trhány
+NOT_ENTITY - NOT_ENTITY - šlechetné zájmy které spolek tento sleduje zasluhují by občanstvo zdejší hledělo škůdce takového zastihnouti neb vypátrati aby potrestání zaslóuženému odevzdán býti mohl
+NOT_ENTITY - INSTITUTION - obchodní komora plzenská odbývá dnes schůzi při které mezi jiným též volba 2 poslanců na sněm zemský předevzata bude
+NOT_ENTITY - NOT_ENTITY - oheň
+NOT_ENTITY - GEOGRAPHICAL_NAME - v bistřici shořela tyto dni blíž kláštera stojící kovarna a stodola aniž by se posud příčina ohně byla vypátrala
+NOT_ENTITY - GEOGRAPHICAL_NAME - jos myška z kdýně p
+NOT_ENTITY - NOT_ENTITY - jak
+NOT_ENTITY - GEOGRAPHICAL_NAME - sperl z kdýně dně 1 dubna 1872 odbývána shůze zastupitelstva městského
+NOT_ENTITY - INSTITUTION - z předmětů vyjednávaných sluší se zminiti 0 žádosti chudých gymnasistů o osvobození od školného žádost lesníků o zvýšení služného což oboji bylo odkázáno komisím ke skoumání a podání zprávy
+NOT_ENTITY - NOT_ENTITY - schnábla a na to místo nařízeno vypsati k obsazení jeho konkurs dáno lesníkovi p
+NOT_ENTITY - ARTIFACT_NAMES - brandlovi odbytné 500 zl a ustanoveno častějí skontrovati všechny kasy pod správou obce stojící pak i stáráno se o to aby věž při kostele u svatých letos ještě důstojným spůsobem opravena byla
+NOT_ENTITY - ARTIFACT_NAMES - na běžná vydání an se nyní při dělání dříví nad přijem množí povolena zatim zápujčka 3000 zl ze spořitelny zdejší
+NOT_ENTITY - TIME_EXPRESSIONS - při odvodu k vojsku dne 18 a 19 t m zde provedeném následující zdejší synove k vojsku povoláni byli k pěšímu pluku č 35
+NOT_ENTITY - NOT_ENTITY - sokol antonín chloupek josef nozar jan strec antonín schnabl jakub kralovec františek
+NOT_ENTITY - INSTITUTION - k myslivcům
+NOT_ENTITY - NOT_ENTITY - fronk františek kupilík antonín procházka alex
+NOT_ENTITY - NOT_ENTITY - ebenstreit františek kacerovský jan neubauer jan kohout karel
+NOT_ENTITY - INSTITUTION - ku sboru stavitelskému
+NOT_ENTITY - NOT_ENTITY - kostlivý václav herget jiří lohmann jakub pavlík antonín
+NOT_ENTITY - INSTITUTION - k sboru špižovnímu
+NOT_ENTITY - NOT_ENTITY - radl jan
+NOT_ENTITY - INSTITUTION - k dragounům
+NOT_ENTITY - NOT_ENTITY - kralovec jan vimmer josef ; zábrana sperl jiří
+NOT_ENTITY - INSTITUTION - k pevnostňímu dělostřelstvn
+NOT_ENTITY - NOT_ENTITY - regal augustin
+NOT_ENTITY - INSTITUTION - ki sboru hřebečnímu
+NOT_ENTITY - NOT_ENTITY - neidl václav
+NOT_ENTITY - INSTITUTION - k zemské obraně halik jan ; moos petr svačina kašpar peklo antonin johanek vendelin
+NOT_ENTITY - NOT_ENTITY - prozatim odvedeni byli
+NOT_ENTITY - NOT_ENTITY - zimmer josef pek bedřich čech josef ouřada josef fronk pavel veselý josef straka jiří kalčík václav ludvik václav můller michal tišler bedřich
+NOT_ENTITY - NOT_ENTITY - dobrovolně do vojska vstoupil františek maerc
